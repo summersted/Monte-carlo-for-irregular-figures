@@ -1,10 +1,10 @@
-var colour = $(".selected").css("background-color");
+var colour = "red";
 var $canvas = $("canvas");
 var context = $canvas[0].getContext("2d");
 var lastEvent;
 var mouseDown = false;
 let myCanvas = document.getElementById("mainCanvas");
-let targetColor = { r: 0, g: 0, b: 0 }; // Чорний колір
+let targetColor = { r: 255, g: 0, b: 0 }; // Червоний колір
 let amountOfRandomDots;
 // let points = getPointsByColor(myCanvas, targetColor);
 
