@@ -1,5 +1,7 @@
 # Simple Paint Application
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Lachlandawson/pen/abmdyV](https://codepen.io/Lachlandawson/pen/abmdyV).
+A Pen for drawing application created on CodePen.io. Original URL: [https://codepen.io/Lachlandawson/pen/abmdyV](https://codepen.io/Lachlandawson/pen/abmdyV).
 
 This is a simple paint application based off the Team Treehouse jQuery project. 
+
+The integration of the alogithm for calculating the area of ​​an irregular geometric figure was implemented by Sydorchuk Roman and Butlerskiy Dmytro.
