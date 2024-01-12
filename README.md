@@ -1,4 +1,4 @@
-# Simple Paint Application
+# Calculation of the area of ​​an irregular shape by the Monte Carlo method
 
 A Pen for drawing application created on CodePen.io. Original URL: [https://codepen.io/Lachlandawson/pen/abmdyV](https://codepen.io/Lachlandawson/pen/abmdyV).
 
